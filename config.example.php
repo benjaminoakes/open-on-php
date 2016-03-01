@@ -1,4 +1,4 @@
 <?php
 
-global $open_on_hostname = 'open-on.example.com';
-global $open_on_secret = 'abc1234';
+$open_on_hostname = 'open-on.example.com';
+$open_on_secret = 'abc1234';
